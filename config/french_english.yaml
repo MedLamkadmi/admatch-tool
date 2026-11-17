@@ -1,0 +1,63 @@
+# French -> English word table (spec §6). Add words as they are seen in flyers.
+words:
+  beurre: butter
+  lait: milk
+  fromage: cheese
+  oeufs: eggs
+  œufs: eggs
+  pain: bread
+  poulet: chicken
+  boeuf: beef
+  bœuf: beef
+  porc: pork
+  jambon: ham
+  dinde: turkey
+  dindon: turkey
+  saucisses: sausages
+  yogourt: yogurt
+  crème: cream
+  creme: cream
+  farine: flour
+  sucre: sugar
+  huile: oil
+  riz: rice
+  pâtes: pasta
+  jus: juice
+  eau: water
+  café: coffee
+  cafe: coffee
+  thé: tea
+  fraises: strawberries
+  framboises: raspberries
+  bleuets: blueberries
+  mûres: blackberries
+  pommes: apples
+  oignons: onions
+  carottes: carrots
+  laitue: lettuce
+  concombre: cucumber
+  céleri: celery
+  celeri: celery
+  brocoli: broccoli
+  "chou-fleur": cauliflower
+  poivrons: peppers
+  citron: lemon
+  citrons: lemons
+  ananas: pineapple
+  cerises: cherries
+  croustilles: chips
+  margarine: margarine
+  haché: ground
+  hache: ground
+  maigre: lean
+  congelé: frozen
+  congele: frozen
+  frais: fresh
+phrases:
+  pommes de terre: potatoes
+  crème glacée: ice cream
+  creme glacee: ice cream
+  papier hygiénique: bathroom tissue
+  essuie-tout: paper towel
+  beurre d'arachide: peanut butter
+  huile d'olive: olive oil

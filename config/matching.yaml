@@ -1,0 +1,164 @@
+# Matching settings (spec §6).
+
+size_tolerance: 0.02            # maximum size difference: 2%
+range_rule: overlap             # list range vs flyer range: match when they overlap (Mohamed, 15 Nov 2026)
+# Brand rule (Mohamed, 16 Nov 2026) - same rule at Superstore AND at competitors:
+#   list names a maker brand  -> the offer must name the same maker brand
+#   list names a store brand  -> the offer may name any store brand (store_brands.yaml)
+#   list names no brand       -> product + size only
+#   list names a brand, offer names none -> not matched, Review: 'brand not stated in flyer'
+fuzzy_word_score: 90
+max_review_lines_per_item: 8   # close-but-not-matched offers listed per list item in the Review sheet            # spelling tolerance for one word (0-100), words of 5+ letters
+
+# Words that NEVER block a match (variant / flavour / wording), on either side.
+variants:
+  - selected varieties
+  - selected variety
+  - assorted varieties
+  - assorted
+  - all varieties
+  - varieties
+  - selected
+  - and sizes
+  - all sizes
+  - sizes
+  - salted
+  - unsalted
+  - regular
+  - original
+  - classic
+  - premium
+  - frozen
+  - fresh
+  - multi
+  - multipack
+  - tub
+  - tubs
+  - econo
+  - econo pack
+  - super
+  - big
+  - ultra
+  - colossal
+  - ea
+  - pkg
+  - size
+  - multi pack
+  - family pack
+  - family size
+  - value pack
+  - club pack
+  - club size
+  - bonus pack
+  - bag
+  - bagged
+  - clamshell
+  - package
+  - pack
+  - tray
+  - bunch
+  - each
+  - whole
+  - pure
+  - natural
+  - naturally
+  - simple
+  - style
+  - products
+  - product
+  - or
+  - and
+  - with
+  - in
+  - of
+  - the
+  - a
+  - for
+  - per
+  - our
+  - new
+  - only
+  - grade a
+  - no 1 grade
+  - canada
+  # describing words, not product words (Mohamed, 16 Nov 2026)
+  - spreads
+  - gourmet
+  - liquid
+  - chopped
+  - roast and ground
+  - roast ground
+  - no sugar added          # Mohamed, 16 Nov 2026 (fix 6)
+  - whole wheat
+
+# Words forgiven when the FLYER has them and the list does not (colour, cut, type).
+# When the LIST has one of these words, the flyer must have it too
+# ("Onion Green" needs green; plain "Potatoes" accepts yellow potatoes).
+modifiers:
+  - red
+  - green
+  - yellow
+  - white
+  - orange
+  - black
+  - brown
+  - purple
+  - golden
+  - mini
+  - baby
+  - jumbo
+  - large
+  - medium
+  - small
+  - sweet
+  - seedless
+  - organic
+  - greek
+  - lean
+  - extra
+  - boneless
+  - skinless
+  - sliced
+  - microfiltered
+  - english
+  - russet
+  - iceberg
+  - romaine
+  - hass
+  - field
+  - greenhouse
+  - hot house
+  - vine
+  - tetra
+  - cans
+  - bottles
+  - rolls
+  - double
+  - mega
+  - long
+  - bulk
+  - smoked
+  - bell
+  - field grown
+
+# Different words for the same thing. First word is the one used internally.
+synonyms:
+  - [wiener, hot dog, frankfurter]
+  - [kcup, k cup, k-cup]
+  - [chip, crisp]
+  - [bathroom tissue, toilet paper, toilet tissue]
+  - [paper towel, paper towels]
+  - [yogurt, yoghurt, yogourt]
+  - [tissue, tissues]
+
+# Egg grades are sizes (spec §6): grade must match grade.
+grades: [extra large, large, medium, small, jumbo]
+
+# Wording removed from flyer text before the products are read.
+remove_patterns:
+  - 'product of [a-z .,]*?(?=\d|$|,? (?:no\.? ?1|canada (?:no|fancy|extra)|extra fancy|fancy grade))'
+  - '(?:canada )?(?:no\.? ?1|extra fancy|fancy) grade'
+  - 'cut from .*$'
+  - '(?<![x\d.])\d+(?:\.\d+)?\s*/\s*(?:kg|lb|100 ?g)\b'
+  - '\d+(?:-\d+)? per lb'
+  - '-?\d+ ?°c'

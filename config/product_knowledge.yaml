@@ -1,0 +1,24 @@
+# What a brand name MEANS when the fixed list (or a flyer) names only the brand.
+# Mohamed 15 Nov 2026: "if you find Coke you need to understand that we are talking about
+# cola, and sometimes Coke also means Coca-Cola".
+#
+# same_as:  other spellings of the same brand (Coke = Coca-Cola).
+# product:  the product the brand stands for. Used only when the text has no product word.
+# also_ok:  category words flyers print next to the brand that do not change the product.
+#
+# VERIFY this table. Add a line when a brand-only item is added to the fixed list.
+brands:
+  coke:          {same_as: [coca-cola, coca cola, cocacola], product: cola, also_ok: [soft drinks, pop, soda, beverages]}
+  pepsi:         {same_as: [pepsi-cola, pepsi cola], product: cola, also_ok: [soft drinks, pop, soda, beverages]}
+  kawartha:      {same_as: [kawartha dairy], product: ice cream}
+  bubly:         {product: sparkling water, also_ok: [beverages]}
+  black diamond: {product: cheese}
+  oikos:         {product: yogurt, also_ok: [greek]}
+  danone:        {product: yogurt}
+  tide:          {product: laundry detergent}
+  trutaste:      {product: milk, also_ok: [microfiltered]}
+  timothy's:     {product: coffee, also_ok: [pods]}
+  chapman's:     {same_as: [chapmans], product: ice cream}
+  doritos:       {product: tortilla chips}          # Mohamed, 16 Nov 2026 (fix 7)
+  mccain:        {product: ""}
+  schneiders:    {same_as: [schneider's, shneider's, j.m. schneider], product: ""}

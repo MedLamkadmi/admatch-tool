@@ -1,0 +1,1049 @@
+# Brand names, one per line. Seeded from the fixed list and the brand column of the Flip sample.
+# A name here only tells the matcher 'this word is a brand, not a product'. Add names freely.
+32 degrees
+7up
+aa-1
+abbott
+ace bakery
+acer
+activia
+acuvue oasys
+adidas
+adventure force
+advil
+aero
+after eight
+aha
+air wick
+ajinomoto
+alani
+alcan
+aleve
+alfa
+alienware
+alkanater
+all rolled up
+allen's
+allens
+allessia
+almond roca
+alshifa
+amara
+ametist plus
+amy's
+andes
+annie's
+aphmau
+applesnax
+aquamar
+aquaphor
+arizona
+arjun
+arm & hammer
+armstrong
+arte
+aspirin
+astro
+asus
+aussie
+aveeno
+avengers
+axe
+aylmer
+baby gourmet
+babybel
+baci
+baci +
+baker boys
+baker's
+balconi
+balderson
+balocco
+baltic
+baltic gifts
+balzac's
+bandi
+barbie
+barilla
+baskin robbins
+baskin-robbins
+basse
+battat
+bausch & lomb
+beatrice
+beautypeak
+becel
+beemaid
+belevini
+bell+howell
+belt + howell
+ben & jerry's
+ben's
+benedetto
+bentgo
+benylin
+bertolli
+best buy
+best choice
+best choice products
+better homes & gardens
+betty crocker
+beyblade
+beyblade x
+beyond meat
+bic
+billy bee
+biosteel
+biscoff
+bissell
+black & decker
+black & white
+black diamond
+blackstone
+blokees transformers
+blue buffalo
+blue diamond
+blue dragon
+blue moon
+blue tide
+bluey
+bob's
+borealis
+borjomi
+bothwell
+bouclair
+boulangerie grissol
+bounce
+bounty
+boursin
+breyers
+bridgestone
+brio
+brita
+brookside
+brüst
+bubly
+buckley's
+budweiser
+buenas
+bull's-eye
+burnbrae
+burnbrae farms
+busch
+bush's best
+cadbury
+caffe cimo
+caledon farms
+calico critters
+call of duty
+campbell's
+canada dry
+canon
+care bears
+carefree
+carlton cards
+carnaby
+carnation
+casa di mama
+casa mendosa
+casablanca
+cascade
+cashmere
+cashmere premium
+casio
+castello
+catelli
+caterpillar
+catit
+cavendish & harvey
+cavendish farms
+cedar & sage
+celsius
+centrum
+cerave
+cerebelly
+cesar
+cetaphil
+chacheer
+chalo
+chapman's
+chapmans
+charging essentials
+charmin
+cheemo
+cheetos
+chef bombay
+chefman
+chefmaster
+cholula
+christie
+cipton
+clairol
+clark
+classico
+clif
+clif bar
+clover leaf
+club des millionnaires
+club house
+coca-cola
+cocomax
+cocon
+coke
+cold-fx
+colgate
+comp-o-lite
+compliments
+conestoga
+conestoga farms
+contour next
+cookie pal
+cool maker
+coolmax
+coors
+core power
+corona
+costway
+country harvest
+cracker barrel
+crafty ramen
+crave
+crayola
+crest
+crisco
+crosby's
+crunchmaster
+crush
+cuisine adventures
+curel
+d'italiano
+dabur
+dad's
+dadi
+dadu
+daiya
+dandar
+danone
+danone oîkos
+dare
+dasani
+datu puti
+dawn
+de cecco
+degree
+del monte
+deli express
+delissio
+dell
+delonghi
+delphi
+dempster's
+depend
+desitin
+dex4
+dextrus
+di manno
+diana
+diesel
+ding dong
+dirt devil
+disney
+disney princess
+divella
+dockers
+dole
+don miguel
+doritos
+doulton
+dove
+dove men+care
+downy
+dr oetker
+dr squatch
+dr. oetker
+dr. seuss
+dreame
+driscoll's
+duracell
+dyson
+e.d. smith
+e.d.smith
+eagle brand
+earthbound farm
+easy-off
+edward marc chocolatier
+edx
+eggo
+eight treasures
+ekids
+elastoplast
+electrolux
+elefun
+elite sweets
+ello
+energizer
+enfagrow
+enfagrow a+
+enfamil
+enfamil a +
+ensure
+eos
+equate
+eska
+essie
+eucerin
+evenflo
+every man jack
+everyday essentials
+exploding kittens
+family brand
+fancy feast
+fantino & mondello
+fao schwarz
+farmer's market
+farmers market
+febreze
+ferrero
+ferrero rocheer
+fibre 1
+filippo berio
+finish
+finn crisp
+fisher price
+fisher-price
+fittington
+five roses
+flavor bomb
+fleecy
+fleischmann's
+florastor
+folgers
+fontaine santé
+forest for climate
+frank's
+franklin
+franzeluţa
+fraîche
+french's
+fresh attitude
+fresh express
+frico
+frigidaire
+friskies
+frito lay's
+frito-lay
+fritos
+fruit of the loom
+fruite
+fruitopia
+frutée
+fry's
+fuggler
+fujifilm
+funko
+fur real
+furby
+fuze
+g.h. cretors
+gabby's dollhouse
+gain
+galbani
+galil
+gallo
+garmin
+garnier
+gatorade
+gaviscon
+gay lea
+generac
+general mill's
+general mills
+gerber
+gerolsteiner
+get' ems
+gillette
+gioia
+glaceau
+glade
+globber
+glysomed
+godiva
+gogo squeez
+gold seal
+goldegg
+golden alps
+golden buffalo
+golden happiness
+golden panda
+golden saba
+goo jit zu
+good start
+goodnites
+google
+gotham steel
+gourmia
+grace & stella
+graco
+grandma's
+gray ridge
+great value
+green giant
+green valley
+green works
+greenhouse
+grinch
+griss pasta
+grissol
+grona
+gtracing
+guffanti
+gui gui
+guinness
+guru energy drink
+gusta
+gyrocopters
+haesong
+hakuro
+hallmark
+hampton house
+hans freitag cookies
+happy swing
+hardbite
+hasbro games
+head & shoulders
+healthy choice
+healthy crunch
+hedbanz
+heineken
+heinz
+heller & strauss
+hellmann's
+hello kitty
+heluva good
+herbal essences
+hershey's
+hex bots
+hi-chew
+hidden valley
+high liner
+hisense
+hitster
+hobibear
+holiday time
+hometrends
+honey beewell
+hormel
+hostess
+hot wheels
+huggies
+hungry-man
+hunt's
+hydrasense
+häagen-dazs
+ilios
+imfit
+indomie
+insiders report
+international delight
+irish spring
+irresistible
+irresistibles
+italpasta
+ivory
+iögo
+j.r. watkins
+jachs
+jack link's
+jack links
+jamieson
+janes
+jayone
+jbl
+jenga
+jergens
+jif
+joe fresh
+john deere
+john frieda
+johnson & johnson
+johnson's
+johnsonville
+johnvince
+jolly rancher
+jordanka
+joyway
+jurassic world
+just dough
+just my style
+kashi
+kawartha
+kellogg's
+kettle brand
+keurig
+kicking horse
+kid connection
+kiddicare
+kikkoman
+kinder
+kinder bueno
+kinder's
+kinetic sand
+kirkland
+kirkland signature
+kleenex
+knorr
+kodak
+konti
+kool-aid
+kotex
+kozyshack
+kpop
+kpop demon hunters
+kraft
+kraft philadelphia
+kriti gold
+kuhne
+l oréal
+l'ange
+l'artisan
+l'extra
+l'oreal paris
+l'oréal
+l'oréal
+l.o.l surprise!
+la terra fina
+lactantia
+lady speed stick
+lady's choice
+lamontagne
+landish
+lantana
+lantic
+lao gan ma
+lasko
+lavazza
+lay's
+lazy sundays
+le chic pâtissier
+leapfrog
+leclerc
+lego
+leighton wood
+leonessa
+level ground
+liberté
+life at home
+life brand
+life smart
+lilo & stitch
+lilydale
+lindor
+lindt
+lipton
+liquid iv
+listerine
+lite brite
+little live pets
+little tikes
+live clean
+loacker
+lotus
+lou's kitchen
+lovaré
+love child
+love child organics
+lucky me!
+luvibubs
+lysol
+lärabar
+m&m's
+m&ms
+m.y. san
+maatouk
+madd gear
+made good
+maggi
+magna-tiles
+magnat
+mainstays
+mainstays kids
+maison perrier
+maisto tech
+maling
+maliya
+mang pedro's
+mann's
+maple leaf
+maple lodge
+maple lodge farms
+marc angelo
+marc anthony
+marcangelo
+martha stewart
+martin's
+marvel
+marvel studios
+mastro
+matix
+maxkare
+maxpeedingrods
+maxwell house
+maxx action
+maybelline
+maynards
+mazzini
+maître truffout
+mccafé
+mccain
+mcobeauty
+mcsweeney's
+mega blocks
+mega bloks
+melissa & doug
+meow mix
+merci
+merrell
+meta quest
+metamucil
+michelina's
+michelob
+midea
+mielle
+milk 2 go
+milk-bone
+milka
+milwaukee
+mina
+minecraft
+mini brands
+minute maid
+miracle gel
+miss vickie's
+mitchell's soup co
+mobil 1
+modhani
+mogu mogu
+molson
+momcozy
+mondetta
+monsieur gustav
+monster
+monster jam
+monte verde
+montellier
+moritz
+motorola
+motrin
+mott's
+mountain dew
+mr. beast lab
+mr. christie's
+mr. clean
+mrs. meyer's
+ms. rachel
+mum-mum
+muscle milk
+mutti
+my sweet baby
+nabob
+nagano
+naked & saucy
+nana pops!
+nard
+national geographic
+natrel
+natural one
+nature valley
+nature's bounty
+naturipe
+nautica
+navigator
+near north life
+neilmed
+neilson
+neocitran
+nerf
+nescafe
+nespresso
+nestle
+nestlé
+nestlé carnation
+neutrogena
+new zealand
+nex playground
+nexxus
+nicorette
+ninja
+nintendo
+nissin
+nivea
+nixit
+nizoral
+no boundaries
+no name
+noble premium
+nongshim
+nook nooks
+nordex
+nudy rudy
+numiere
+nutella
+nyx
+nyx professional makeup
+o'doughs
+oak barrel
+oasis
+oatbox
+oatly
+ocean jewel
+ocean pier
+ocean spray
+ocean's
+oikos
+oka
+olay
+old el paso
+old excellent
+old spice
+olivieri
+oliya
+olly
+olymel
+olympic
+one paw
+onn
+ooni
+oral-b
+ordo
+organika
+orville redenbacher
+orville redenbachers
+ottavio
+ottogi
+our finest
+our promise
+ox head
+ozark trail
+pabst
+paese mio
+paldo
+palmolive
+pam
+pampers
+panache
+panasonic
+panoxyl
+pantene
+parent's choice
+parkay
+patpat
+paw patrol
+pc
+peace tea
+pearl milling company
+pediasure
+pedigree
+pekkle
+pelmen
+penaten
+peppa pig
+pepperidge farm
+pepsi
+philadelphia
+philips
+philips sonicare
+philodeco
+phoenicia
+piller's
+pillsbury
+pine-sol
+pinty's
+play day
+play-doh
+playstation
+pogo
+poise
+pokémon
+polar xtreme
+polaris
+polaroid
+pop the pig game
+popeyes
+poppi
+poppycock
+popsicle
+pot of gold
+pran
+prana
+premier protein
+president
+president's choice
+prestige
+primal hatch
+prime time
+primo
+pringles
+prospera home
+pudgyboy's
+pulmuone
+puma
+pur
+pure balance
+pure balance pro
+purex
+purina
+q-tips
+quaker
+que bella
+que pasa
+quo
+quo beauty
+rainbocorns
+rainbow loom
+rana
+rascals
+ravensburger
+ravine
+realtree
+red bull
+red gold
+red grill
+red rose
+redpath
+reese's
+reko
+renée's
+reser's
+restoralax
+revolution nutrition
+reynolds
+ricola
+ritter sport
+riviera
+ro tel
+ro*tel
+robax
+robin hood
+robitussin
+roborock
+rockstar games
+rooster
+roots
+roshen
+rougemont
+rowenta
+royale
+rubik's
+rudolph's
+ruffles
+rugged ridge
+rustica
+rw garcia
+rxbar
+sabatasso's
+sainsbury's
+sally hansen
+samsung
+san daniele
+san pellegrino
+sara lee
+scent theory
+schick
+schneider's
+schneiders
+schoolsafe
+scotties
+scrubbing bubbles
+scruffaluvs
+sea's mind
+seahorse
+sealtest
+sealy posturepedic
+seaquest
+sekka
+selection
+senix
+sennheiser
+sensodyne
+sequest
+sesame street
+sesmark
+shark
+sharper image
+shea moisture
+sheamoisture
+sher
+shneider's
+signal
+silver elephant
+silver jeans co
+silver swan
+similac
+simply gourmet
+simply protein
+sistema
+siwin
+skandia
+skimi
+skin1004
+skullcandy
+skyviper
+skyworth
+slime life
+slimygloop
+smart ones
+smucker's
+snack factory
+snack pack
+snow boogie
+snuggle
+softsoap
+sonic the hedgehog
+sony
+sorbelicious
+soykei
+sparkling ice
+spider-man
+splenda
+sponge towels
+spongetowels
+spot it!
+sprague
+spring valley
+sprite
+squid brand
+squishmallow
+squishmallows
+st. ives
+stagg
+star wars
+starbox
+starbucks
+starfrit
+stash
+stefano
+step2
+stepguard
+sterling silver
+stonemill
+strivectin
+strub's
+sudocrem
+sufra
+sum-m!
+summ!
+sunchips
+sunfeast
+sunlight
+sunrise farms
+sunrype
+super q
+suraj
+swanson
+swift
+swiss chalet
+swiss miss
+systane
+t&t
+t-fal
+taco bell
+takis
+tampax
+tasia
+tassimo
+taste for luxury
+taylor farms
+tazo
+tcl
+temptations
+tenderflake
+tetley
+tetley tea
+tetris
+the elf on the shelf
+the laughing cow
+the rock
+the spice tailor
+thomas & friends
+three farmers
+thyme & table
+tide
+tim horton's
+tim hortons
+timothy's
+tina's
+toastmaster
+toblerone
+toffifee
+tonies
+tostitos
+totole
+toy story
+tramontina
+transformers
+tre stelle
+tresemmé
+tropicana
+true north
+tums
+twizzlers
+tylenol
+u by kotex
+ufc
+unico
+urbanista
+vachon
+van houtte
+vaseline
+vega
+vertuo
+vibrant life
+vici
+vicks
+villaggio
+vintner's craft
+viscologic
+visine
+vitaminwater
+voltaren
+voortman bakery
+vtech
+vtech baby
+warrior
+warrior cats
+watson ridge
+weatherproof
+webber naturals
+weiser
+westlab
+whiskas
+white king
+wholesome
+wildly delicious
+wingomart
+wolski
+wonder
+world's best
+world's best cat litter
+wrigley's
+x-shot
+xbox
+xshot
+yankee
+yop
+yoplait
+your fresh market
+youtheory
+zabiha
+zabiha halal
+zavida
+zdza
+zen gourmet
+ziggy's
+zincofax
+ziploc
+zuru
+zwilling
+blue menu
+que pasa
+stefano

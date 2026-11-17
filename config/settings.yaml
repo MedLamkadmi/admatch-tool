@@ -1,0 +1,62 @@
+# Ad-Match tool settings. Everything the tool needs to know is here, not in the code.
+
+region: Ottawa
+
+# Home store and the 7 competitors (spec §3). No Loblaws.
+home_store: Superstore
+competitors: [No Frills, Walmart, Sobeys, Metro, FreshCo, Food Basics, Costco]
+
+# Names the flyer sources use for each store -> the store name above.
+store_aliases:
+  Superstore: [superstore, real canadian superstore, real-canadian-superstore, rcss]
+  No Frills: [no frills, nofrills, no-frills]
+  Walmart: [walmart]
+  Sobeys: [sobeys]
+  Metro: [metro]
+  FreshCo: [freshco, fresh co]
+  Food Basics: [food basics, food-basics, foodbasics]
+  Costco: [costco]
+
+week:
+  start_weekday: thursday      # flyer week runs Thursday -> Wednesday
+  length_days: 7
+  # Run on a Thursday: that same Thursday is the start of the target week.
+  run_on_start_day_takes: same_day
+
+extraction:
+  # Fewer offers than this from one store = loud warning (store named).
+  min_offers_per_store: 30
+  # Raddar counts pages from 0. Number added to get the page shown in the Excel file.
+  page_number_offset: 1
+
+# Winner of the §4 source test. Column names of the export are mapped here.
+sources:
+  raddar:
+    columns:
+      store: Retailer
+      flyer_id: Flyer ID
+      valid_from: Valid From
+      valid_to: Valid To
+      title: Product Title
+      price_text: Advertised Price
+      description: Fine Print / Size / Conditions
+      category: Category
+      page: Flyer Page
+      image_url: Product Image URL
+      source_url: Flyer Source URL
+      item_no: Item Number in Flyer
+      pdf_path: Flyer PDF
+      pdf_status: PDF Status
+      pdf_method: PDF Method
+
+# The fixed list file. "auto" = the file has one column and that column is the item names.
+# If the real file has several columns, write the column name here.
+fixed_list:
+  item_column: auto
+
+images:
+  download: true            # fetch the image of every matched offer (needed for the Excel file)
+  read_prices: true         # local OCR of the image: member price, text-vs-image conflict
+  timeout_seconds: 20
+  # Share of matched-offer images that fail to download before a loud warning is printed.
+  warn_if_failed_share: 0.2

@@ -1,0 +1,9 @@
+pandas
+openpyxl
+PyYAML
+rapidfuzz
+Pillow
+numpy
+scipy
+pytesseract
+pytest

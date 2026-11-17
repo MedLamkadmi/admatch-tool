@@ -1,0 +1,27 @@
+# Store brands (spec §6, researched 15 Nov 2026). This list is the source of truth.
+# Add a name here when a new store-brand name is seen in flyer data. Do not guess names.
+# tier is information only - it never blocks a match.
+stores:
+  Superstore: [No Name, President's Choice]
+  No Frills: [No Name, President's Choice]
+  Walmart: [Great Value, Your Fresh Market, Our Finest]
+  Sobeys: [Compliments, Panache, S!gnal]
+  Metro: [Selection, Irresistibles, Life Smart]
+  Food Basics: [Selection, Irresistibles]
+  FreshCo: [Compliments, Chalo!]
+  Costco: [Kirkland Signature]
+
+brands:
+  No Name:            {tier: value,   aliases: [no name, noname, nn]}
+  President's Choice: {tier: premium, aliases: [pc, president's choice, presidents choice, pc organics, pc black label, pc blue menu]}
+  Great Value:        {tier: main,    aliases: [great value]}
+  Your Fresh Market:  {tier: fresh,   aliases: [your fresh market]}
+  Our Finest:         {tier: premium, aliases: [our finest]}
+  Compliments:        {tier: main,    aliases: [compliments], prefix: true}   # any name starting with "Compliments"
+  Panache:            {tier: premium, aliases: [panache]}
+  S!gnal:             {tier: value,   aliases: [s!gnal, signal]}
+  Selection:          {tier: value,   aliases: [selection]}
+  Irresistibles:      {tier: premium, aliases: [irresistibles, irresistible, irrésistible, irrésistibles]}
+  Life Smart:         {tier: health,  aliases: [life smart]}
+  Chalo!:             {tier: south asian, aliases: [chalo!, chalo]}
+  Kirkland Signature: {tier: main,    aliases: [kirkland signature, kirkland]}

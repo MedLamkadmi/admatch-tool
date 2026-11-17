@@ -1,0 +1,29 @@
+# Short forms -> full form (spec §6). Applied before matching.
+# Size units (g, kg, ml, l, lb, oz, ct, pk, ea) are read by the size parser.
+words:
+  pc: president's choice     # not applied after a number ("3 pc set")
+  nn: no name
+  lrg: large
+  lg: large
+  xl: extra large
+  med: medium
+  sm: small
+  ft: facial tissue          # "Royale FT 6x126" - VERIFY
+  bt: bathroom tissue
+  pt: paper towel
+  jms: schneiders            # J.M. Schneider - VERIFY
+  bnls: boneless
+  sknls: skinless
+  ckn: chicken
+  chkn: chicken
+  frzn: frozen
+  org: organic
+  asst: assorted
+  var: varieties
+  pkg: package
+  btl: bottle
+size_units:
+  g: gram
+  ct: count
+  ea: each
+  pk: pack
